@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  web2023s1:
-    image: web2023s1
-    build:
-      context: .
-      dockerfile: ./Dockerfile
